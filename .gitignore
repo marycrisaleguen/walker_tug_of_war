@@ -1,0 +1,19 @@
+# unpublished manuscript sources and internal notes: keep out of the public repository
+manuscript/
+_internal/
+
+# model output and other large files never belong in git
+*.nc
+*.nc4
+*.grb
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

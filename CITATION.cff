@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "walker_tug_of_war: analysis code for 'Energetic Controls on ENSO-Driven Variability of the Pacific Walker Circulation'"
+authors:
+  - family-names: Aleguen
+    given-names: Mary Cris M.
+    affiliation: Max Planck Institute for Meteorology
+  - family-names: Günther
+    given-names: Moritz
+    affiliation: Max Planck Institute for Meteorology
+  - family-names: Kang
+    given-names: Sarah M.
+    affiliation: Max Planck Institute for Meteorology
+repository-code: "https://github.com/marycrisaleguen/walker_tug_of_war"
+preferred-citation:
+  type: article
+  title: "Energetic Controls on ENSO-Driven Variability of the Pacific Walker Circulation"
+  authors:
+    - family-names: Aleguen
+      given-names: Mary Cris M.
+    - family-names: Günther
+      given-names: Moritz
+    - family-names: Kang
+      given-names: Sarah M.
+  journal: "Geophysical Research Letters"
+  status: submitted
